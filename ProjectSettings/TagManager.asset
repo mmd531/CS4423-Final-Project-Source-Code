@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 3
+  - 2
+  - 1
+  - User
+  - groundLayer
+  - Enemy Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG1
+    uniqueID: 3404023709
+    locked: 0
+  - name: BG2
+    uniqueID: 3369318533
+    locked: 0
+  - name: BG3
+    uniqueID: 1691629291
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1290650777
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 444634485
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 3635650835
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 3080628295
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 723742049
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 2891798043
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 962552635
+    locked: 0
+  - name: New Layer 12
+    uniqueID: 1978511405
+    locked: 0
+  - name: New Layer 13
+    uniqueID: 1072539459
+    locked: 0
+  - name: New Layer 14
+    uniqueID: 3201756693
+    locked: 0
+  - name: New Layer 15
+    uniqueID: 3426635897
+    locked: 0
+  - name: New Layer 16
+    uniqueID: 1188844461
+    locked: 0
+  - name: Ground
+    uniqueID: 1702009861
+    locked: 0
+  - name: Ground 2
+    uniqueID: 767581739
+    locked: 0
+  m_RenderingLayers:
+  - Default

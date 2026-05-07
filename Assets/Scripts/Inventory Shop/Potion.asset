@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed520fabff1c4384db2d323493ff970f, type: 3}
+  m_Name: Potion
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Potion
+  icon: {fileID: 683658699541017965, guid: 5b5fe3eb77c6c1246947a934c170fea0, type: 3}
+  itemType: 0
+  maxStack: 99
+  buyPrice: 5
+  sellPrice: 0
+  healPercent: 0.5
+  attackBoostPercent: 0
